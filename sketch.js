@@ -43,7 +43,7 @@ function draw() {
    let inside = color(204, 102, 0);
   let middle = color(204, 153, 0);
   let outside = color(153, 51, 0);
-   let value= 0;
+  
   
   fill(outside);
   arc(200, 400, 100, 100, PI, TWO_PI);
